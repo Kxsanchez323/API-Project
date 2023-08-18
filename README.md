@@ -1,2 +1,2 @@
 # API-Project
- Project made with a *blank* API
+ Project made with a Pokemon TCG API
